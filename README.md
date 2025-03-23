@@ -3,6 +3,7 @@
 This project is a contact management application developed using React and TailwindCSS for the front-end, and Spring Boot for the back-end.
 
 Features
+
 User Registration: Users can register by email or sign up using their Google or GitHub accounts.
 
 Account Activation: After registration, an account activation email is sent to the registered email address. Upon clicking the activation link, the user’s account is successfully activated.
